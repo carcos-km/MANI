@@ -1,5 +1,5 @@
 /* MANI : The High 5 Machine
-  by Clara Arcos
+  by Clara Arcos - 01348932
   uses VarSpeedServo library
   by NETLab Toolkit Group <https://github.com/netlabtoolkit/VarSpeedServo>
 */
